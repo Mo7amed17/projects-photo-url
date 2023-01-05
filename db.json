@@ -1,0 +1,24 @@
+{
+  "photos": [
+    {
+      "name":"E-commerce",
+      "url":"https://mo7amed17.github.io/projects-photo/e-commerce.png"
+    },
+    {
+      "name":"project-two",
+      "url":"https://mo7amed17.github.io/projects-photo/project-two.png"
+    },
+    {
+      "name":"MEMORY_GAME",
+      "url":"https://mo7amed17.github.io/projects-photo/memory-game.png"
+    },
+    {
+      "name":"first-project",
+      "url":"https://mo7amed17.github.io/projects-photo/first-project.png"
+    },
+    {
+      "name":"personal-site",
+      "url":"https://mo7amed17.github.io/projects-photo/personal-site.png"
+    }
+  ]
+}
